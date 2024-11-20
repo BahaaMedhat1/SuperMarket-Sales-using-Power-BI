@@ -12,8 +12,6 @@ The dataset contains sales transactions from three supermarket branches across m
 
 ## Dashboard Highlights
 
-![Sales Report for Q1 of 2019](https://user-images.githubusercontent.com/yourimagepath.png)
-
 ### Key Metrics
 - **Gross Income**: **$15.38K**
 - **Cost of Goods Sold (COGS)**: **$307.59K**
